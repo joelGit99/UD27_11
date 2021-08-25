@@ -1,0 +1,28 @@
+table {
+    box-shadow: inset -2px -2px 2px 2px #8888;
+    padding: 5px;
+    margin: 0px;
+    border-spacing: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    border-width: 1px;
+    border-style:double;
+    border-color: aqua;  
+}
+th, td {
+    padding: 3px;
+    border-width: 1px;
+    border-style: double;
+    border-color: aqua;
+    text-align: center;
+}
+th {
+    background-color: midnightblue;
+    color: springgreen;
+}
+td {
+    background-color: greenyellow;
+}
+#deporte2 {
+    background-color: springgreen;
+}
